@@ -1,0 +1,3 @@
+[submodule "keymo"]
+	path = keymo
+	url = https://git.tachyon.network/shared-project/keymo.git
